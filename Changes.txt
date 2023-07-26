@@ -1,0 +1,31 @@
+algorthm.h - 05/18/1999 - Added pairwdiff.
+algorthm.c - 05/18/1999 - Added pairwdiff.
+
+contdist.c - 04/10/1999 - Use areEqual to test for floating-point equality.
+                          Added use of domain calls.
+
+descript.c - 05/09/1999 - Change implementation of mean
+
+discdist.c - 05/09/1999 - Added use of domain calls.
+
+domain.h   - 05/09/1999 - New.
+
+eigensys.h - 05/11/1999 - Removed calcution of eigenvectors from tridred and trideig
+eigensys.c - 05/11/1999 - Removed calcution of eigenvectors from tridred and trideig
+
+noncdist.c - 05/09/1999 - Added use of domain calls.
+
+normdist.c - 05/09/1999 - Added use of domain calls.
+
+numerics.h - 12/22/1998 - Fixed bug in NUMERICS_EXPORT definition.
+
+ranking.h  - 05/18/1999 - Added abrank.
+ranking.c  - 05/18/1999 - Added abrank.
+
+rootfind.h - 05/09/1999 - New
+
+sort.h     - 04/10/1999 - Added isort1 and isort2.
+sort.c     - 04/10/1999 - Added isort1 and isort2.
+                          Applied isort1 and isort2 to small groups in qsort1 and qsort2.
+
+utility.h  - 05/09/1999 - New
