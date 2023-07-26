@@ -6,6 +6,8 @@ Numerics
 
 This is the Worden Ware Numerics library originally available at
 http://www.Brent.Worden.org/products/numericsc.html
+then at
+https://www.simtel.net/free/Development-C-programming-language/C-Numerics-Library/53472.html
 and now available at https://sourceforge.net/projects/numeric/
 
 The `Readme.txt` provided by Worden states that "there are no conditions on its
